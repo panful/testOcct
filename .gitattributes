@@ -1,0 +1,17 @@
+* -text
+*.c -text
+*.cpp -text
+*.h -text
+*.hpp -text
+*.cxx -text
+*.py -text
+*.txt -text
+*.md -text
+*.json -text
+*.xml -text
+*.ini -text
+*.yml -text
+*.yaml -text
+*.png binary
+*.jpg binary
+*.exe binary
